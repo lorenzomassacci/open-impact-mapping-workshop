@@ -1,38 +1,41 @@
 # Concerts Online
 
-Hands-on, interactive educational workshop, suitable for groups of up to 30-40 participants, but can also be organised with much larger groups. Designed to teach the key ideas and basic technique of impact mapping. Great for a half-day or a full-day conference session, or as part of a larger educational workshop.
+Workshop formativo, interattivo e pratico, adatto a gruppi fino a 30-40 partecipanti, ma può essere organizzato anche con gruppi più grandi.
+Progettato per insegnare i concetti fondamentali e le tecniche base di impact mapping.
+Adatto per sessioni di mezza giornata o di una giornata durante conferenze o come parte di workshop più ampi.
 
-This is a workshop that Gojko Adzic and colleagues from Neuri Consulting ran for several years at various conferences, including Product Owner Survival Camps.  As of early 2016, more than two thousand people went through a variant of this workshop, so it's battle-tested. It's interactive and well paced to provide a solid introduction, motivating the participants for further study and research. 
+Gojko Adzic ed i suoi colleghi in Neuri Consulting hanno utilizzato questo workshop per diversi anni a varie conferenze, compresa Product Owner Survival Camps. Ad inzio 2016, oltre 2000 persone hanno affrontato una variante di questo workshop, possiamo quindi considerarlo testato sul campo. E' interattivo e pienamente in grado di fornire una solida introduzione, motivando i partecipanti a fare studi e ricerche di approfondimento.
 
-## Intended audience
+## Partecipanti previsti
 
-Product managers working in iterative delivery, product owners working with agile/lean teams, senior technical people delivering software iteratively, agile coaches, Scrum masters working with teams transitioning to iterative delivery
+Product managers che lavorano con rilasci iterativi, product owners che lavorano con teams agile/lean, tecnici senior che rilasciano  software in modo iterativo, agile coaches, Scrum masters che lavorano con teams in transizione verso un approccio di rilasci iterativi.
 
-## Key learning outcomes
+## Principali obiettivi di apprendimento
 
-* how to capture value for iterative delivery/user stories on several levels
-* how to align stakeholders with competing priorities
-* how to avoid user story stream of consciousness (anything goes) and water-scrum-fall (nothing can be released quickly)
-* how to create roadmaps so that teams get the most out of iterative delivery
-* how to report progress on value, not just effort
-* how to prioritise based on value, not complexity
-* how to slice stories so that they are small but valuable, and aligned with business vision
+* come catturare valore a diversi livelli con rilasci iterativi e user stories
+* come allineare stakeholders con priorità diverse
+* come evitare le user story da flusso di coscienza (tutto va bene) e water-scrum-fall (niente può essere rilasciato velocemente)
+* come creare roadmaps in modo che i teams possano ottenere il massimo dal rilascio iterativo 
+* come documentare i progerri di valore, non solo di effort
+* come dare priorità basate sul valore, non sulla complessità
+* come spezzare le storie in modo da averle piccole ma di valore, ed allineate alla visione del business
 
-## Prerequisites
+## Prerequisiti
 
-The participants should have the basic knowledge of iterative delivery (eg working with user stories). 
+I partecipanti dovrebbero avere delle conoscenze base sullo sviluppo iterativo (es: lavorare con user stories)
 
-## Documents
+## Documenti
 
-* [Facilitation guide](facilitation-guide.md) - how to lead the workshop
-* [Logistics guide](logistics-guide.md) - how to set up the facilities
-* [Handouts for participants](handouts)
-* [Slides for presenters](slides)
+* [Guida alla facilitazione](facilitation-guide.md) - Come facilitare il workshop
+* [Guida logistica](logistics-guide.md) - come preparare le attrezzature
+* [Materiale per i partecipanti](handouts)
+* [Slides per i speakers](slides)
 
-## Usage rights
+## Diritti di utilizzo
 
 Copyright (c) Gojko Adzic, 2016
 
-You can use these materials freely, even for commercial use, under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](http://creativecommons.org/licenses/by/4.0/) license. 
+E' possibile utilizzare questo materiale liberamente, anche per usi commerciali, tramite licenza [Creative Commons Attribution 4.0 International (CC BY 4.0)](http://creativecommons.org/licenses/by/4.0/). 
 
-Please note that the license explicitly prohibits suggesting, in any way, that the licensor endorses you. You can not use the names 'Neuri Consulting' or 'Gojko Adzic' to promote your services or usage of these materials, or imply that you were in any way supported, certified or endorsed by the authors of this workshop. 
+Si precisa che la licenza vieta espressamente di suggerire, in qualsiasi modo, che il concedente appoggi in qualche modo l'utilizzatore 
+Non è possibile utilizzare i nomi 'Neuri Consulting' o 'Gojko Adzic' per promuovere i propri servizi. L'utilizzo di questo materiale non implica in alcun modo che l'utilizzatore sia supportato, certificato o suggerito dagli autori di questo workshop.
