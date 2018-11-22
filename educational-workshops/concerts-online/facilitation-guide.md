@@ -1,62 +1,62 @@
-# Facilitation guide
+# Guida alla facilitazione
 
-This guide explains how to facilitate the 'Concerts Online' impact mapping educational workshop. It is intended for consultants, trainers and team leaders that want to introduce impact mapping into an organisation. **This is not a guide for participants, and should not be shared with anyone apart from the facilitators**. See the [Logistics Guide](logistics-guide.md) for information regarding participant documents.
+Questa guida spiega come facilitare il workshop  su impact mapping 'Concerti Online'. È pensato per consulenti, formatori e team leader che voglino indrodurre impact mapping in un organizzazione. **Non è una guida per i partecipanti, e non dovrebbe essere condivisa con nessun'altro oltre i facilitatori**. Per informazioni in merito alla documentazione per i partecipanti vedi la [Guida all Logistica](logistics-guide.md).
 
-## Workshop variants
+## Varianti del Workshop
 
-This workshop can run either as a half-day or a full-day session. The half-day variant is faster paced and better as a motivational session. The full-day variant allows for more discussion time and several additional exercises, so it provides more hands-on experience. You can run this workshop as a separate session, or include it into a larger workshop (for example, a two-day product owner course). If you decide to mix 'Concerts Online' with a larger workshop, it should come ideally after a session on determining business objectives/goals and before a session on detailed user stories or techniques to deal with individual backlog items.
+Questo workshop può essere fatto sia con una sessione di un mezza giornata che di una giornata.
+La versione di mezza giornata è più veloce funziona meglio come sessione motivazionale. La versione di una giornata permette maggior tempo per le discussioni e diversi esercizi aggiuntivi, consentendo una maggiore esperienza pratica. Questo workshop può essere eseguito come sessione autonoma o incluso in un workshop più ampio (ad esempio un corso di sue giorni per product owner). Se decidi di unire 'Concerti Online' con un workshop più ampio, sarebbe ideale inserirlo dopo una sessione per determinare gli obiettivi di business e prima di una sessione per dettagliare le user stories o tecniche per gestire le singole voci del backlog.
 
-The half-day session requires relatively punctual timing, especially for group discussions, so you'll have to drive the groups towards the right conclusions. The key points that the participants are supposed to reach are listed in the exercise guides. In the full-day variant you should let the discussions go on for longer, and may potentially remove the last exercise if the schedule slips. 
+La sessione di mezza giornata richiede una rigida gestione del tempi, specialmente per le discussioni di gruppo, il facilitatore deve quindi guidare i gruppi verso le giuste conlcusioni. I concetti chiave che i partecipanti dovrebbero apprendere sono indicate nelle guide degli esercizi. Nel sessione di una giornata il facilitatore invece dovrebbe lasciare la discussione andare avanti più a lungo, e potenzialmente rimuovere l'ultimo esercizio in agenda.  
 
-### Half-day guideline timings
+### Linea guida sulle tempistiche per la mezza giornata
 
-For illustrative purposes, this assumes that the workshop starts at 9AM. Adjust accordingly for an afternoon session.
+A  scopo illustrativo, assumiamo che il workshop inizi alle 9:00. Adattare di conseguenza in caso di sessioni pomeridiane.
 
-- 09:00 Exercise: [Initial Plans](#exercise-1-initial-plans)
-- 09:20 Discussion session: groups present plans
-- 09:30 Exercise: [Compare plans](#exercise-2-compare-plans)
-- 09:45 Presentation: [Behaviour change as measurement of value](#presentation-behaviour-change-as-measurement-of-value) 
-- 10:00 Exercise: [Brainstorm behaviour changes](#exercise-3-brainstorm-behaviour-changes)
-- 10:15 Discussion session: groups present ideas for behaviour changes
-- 10:30 coffee break
-- 10:40 Presentation: [Impact map structure](#presentation-impact-map-structure)
-- 10:50 Exercise: [Impact map for more advertising revenue](#exercise-4-impact-map-for-advertising-revenue)
-- 11:20 Discussion session: groups present impact maps
-- 11:30 Exercise: [Propose new delivery plans](#exercise-5-propose-new-delivery-plans)
-- 11:50 Discussion session: present new plans
-- 12:00 Presentation: [How impact maps fit in with delivery](#presentation-how-impact-maps-fit-in-with-delivery)
-- 12:20 Quick Questions & Answers session
-- 12:30 Stop
-
-
-### Full-day guideline timings
+- 09:00 Esercizio: [Piani Iniziali](#exercise-1-initial-plans)
+- 09:20 Discussione: i gruppi presentano i piani
+- 09:30 Esercizio: [Confrontare i Piani](#exercise-2-compare-plans)
+- 09:45 Presentazione: [Cambiamento del comportamento come misura di valore](#presentation-behaviour-change-as-measurement-of-value) 
+- 10:00 Esercizio: [Brainstorming sui cambiamenti di comportamento](#exercise-3-brainstorm-behaviour-changes)
+- 10:15 Discussione: i gruppi presentano le idee per i cambiamenti di comportamento
+- 10:30 pausa
+- 10:40 Presentazione: [Struttura di Impact map](#presentation-impact-map-structure)
+- 10:50 Esercizio: [Impact map per maggiori revenue dalle pubblicità](#exercise-4-impact-map-for-advertising-revenue)
+- 11:20 Discussioni: i gruppi presentano le Impact map
+- 11:30 Esercizio: [Proporre un nuovo piano di rilascio](#exercise-5-propose-new-delivery-plans)
+- 11:50 Discussione: presentare il nuovo piano
+- 12:00 Presentazione: [Come Impact map si incastra con i rialsci](#presentation-how-impact-maps-fit-in-with-delivery)
+- 12:20 Sessione di domande & risposte
+- 12:30 Fine
 
 
-- 09:00 Exercise: [Initial Plans](#exercise-1-initial-plans)
-- 09:20 Discussion session: groups present plans
-- 09:30 Exercise: [Compare plans](#exercise-2-compare-plans)
-- 09:45 Presentation: [Behaviour change as measurement of value](#presentation-behaviour-change-as-measurement-of-value) 
-- 10:00 Exercise: [Brainstorm behaviour changes](#exercise-3-brainstorm-behaviour-changes)
-- 10:15 Discussion session: groups present ideas for behaviour changes
-- 10:35 coffee break
-- 10:45 Presentation: [Impact map structure](#presentation-impact-map-structure)
-- 10:55 Exercise: [Impact map for more advertising revenue](#exercise-4-impact-map-for-advertising-revenue)
-- 11:30 Discussion session: groups present impact maps
-- 11:45 Exercise: [Propose new delivery plans](#exercise-5-propose-new-delivery-plans)
-- 12:00 Discussion session: present new plans
-- 12:30 lunch break
-- 13:30 Exercise: [Impact map for reducing the call centre load](#exercise-6-impact-map-for-call-centre-load) 
-- 14:10 Discussion session: groups present impact maps
-- 14:25 coffee break
-- 14:35 Exercise: [Impact map for branding](#exercise-7-impact-map-for-branding)
-- 14:55 Discussion session: groups present impact maps
-- 15:10 Presentation: [How impact maps fit in with delivery](#presentation-how-impact-maps-fit-in-with-delivery)
-- 15:30 Questions & Answers session
-- 16:00 stop
+### Linee guida sulle tempistiche per la giornata intera
 
-## Group considerations
+- 09:00 Esercizio: [Piani Iniziali](#exercise-1-initial-plans)
+- 09:20 Discussione: i gruppi presentano i piani
+- 09:30 Exercise: [Confrontare i Piani](#exercise-2-compare-plans)
+- 09:45 Presentazione: [Cambiamento del comportamento come misura di valore](#presentation-behaviour-change-as-measurement-of-value) 
+- 10:00 Esercizio: [Brainstorming sui cambiamenti di comportamento](#exercise-3-brainstorm-behaviour-changes)
+- 10:15 Discussione: i gruppi presentano le idee per i cambiamenti di comportamento
+- 10:35 pausa
+- 10:45 Presentazione: [Struttura di Impact mp](#presentation-impact-map-structure)
+- 10:55 Esercizio: [Impact map per maggiori revenue dalle pubblicità](#exercise-4-impact-map-for-advertising-revenue)
+- 11:30 Discussioni: i gruppi presentano le Impact map
+- 11:45 Esercizio: [Proporre un nuovo piano di rilascio](#exercise-5-propose-new-delivery-plans)
+- 12:00 Discussione: presentare il nuovo piano
+- 12:30 pausa pranzo
+- 13:30 Esercizio: [Impact map per ridurre le chiamate al call center](#exercise-6-impact-map-for-call-centre-load) 
+- 14:10 Discussioni: i gruppi presentano le Impact map
+- 14:25 pausa
+- 14:35 Exercise: [Impact map per il branding](#exercise-7-impact-map-for-branding)
+- 14:55 Discussioni: i gruppi presentano le Impact map
+- 15:10 Presentation: [Come Impact map si incastra con i rialsci](#presentation-how-impact-maps-fit-in-with-delivery)
+- 15:30 Domande & Risposte
+- 16:00 fine
 
-The participants will work in groups, straight from the start. The ideal group size is 4-5 participants. Avoid larger groups as they tend to create too much internal discussion, and it's easy for some people to tune out in a larger group. Ideally, arrange for groups to contain people who do not typically work together - they are either from different teams or different organisations. For a half-day variant, let the people stay in the same group. That will save time and allow for closer groupwork. For the full-day variant, consider shuffling groups between exercises to allow for more varied opinions and break monotony. 
+## Riflessioni di gruppo
+
+I partecipanti lavoreranno in gruppi, fin da subito. Il gruppo ideale è composto da 4-5 partecipanti. Evitate grandi gruppi perché tendono a creare troppe discussioni interne, ed è facile per alcuni deconcentrasi. È preferibile comporre i gruppi con insieme persone che tipicamente con lavorano insieme -  provenienti da team diversi o da organizzazioni diverse. Nelle sessioni di mezza giornata lasciare i stessi gruppi per la durata del workshop. Questo permette di risparmiare tempo ed avere gruppi più affiatati. Per le sessioni di una giornata, valutare di mescolare i gruppi tra gli esercizi, questo permette di avere maggiori ozioni e rompe la monotonia.
 
 With less than 20 people in the room (so up to 3-4 groups), you can run discussion sessions by getting each group to present their work in turn. With more groups, this will take too much time. Instead of each group presenting, give people five minutes at the start of each discussion session to walk around the room and see the results produced by other groups, then lead the discussion by pointing out the key ideas on various solutions.
 
