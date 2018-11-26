@@ -58,35 +58,36 @@ A  scopo illustrativo, assumiamo che il workshop inizi alle 9:00. Adattare di co
 
 I partecipanti lavoreranno in gruppi, fin da subito. Il gruppo ideale è composto da 4-5 partecipanti. Evitate grandi gruppi perché tendono a creare troppe discussioni interne, ed è facile per alcuni deconcentrasi. È preferibile comporre i gruppi con insieme persone che tipicamente con lavorano insieme -  provenienti da team diversi o da organizzazioni diverse. Nelle sessioni di mezza giornata lasciare i stessi gruppi per la durata del workshop. Questo permette di risparmiare tempo ed avere gruppi più affiatati. Per le sessioni di una giornata, valutare di mescolare i gruppi tra gli esercizi, questo permette di avere maggiori ozioni e rompe la monotonia.
 
-With less than 20 people in the room (so up to 3-4 groups), you can run discussion sessions by getting each group to present their work in turn. With more groups, this will take too much time. Instead of each group presenting, give people five minutes at the start of each discussion session to walk around the room and see the results produced by other groups, then lead the discussion by pointing out the key ideas on various solutions.
+Con meno di 20 persone (quindi al massimo 3-4 gruppi), durante la fase di discussione è possibile per ogni gruppo presentare a turno il proprio lavoro. Con più gruppi, richiede troppo tempo. Invece di far presentare ad ogni gurppo, dare la possibilità alle persone di avere 5 minuti per muoversi nella stanza e vedere i risultati prodotti dagli altri gruppi, poi guidare la discussione sottolineando i concetti chiave delle varie soluzioni.
 
-This workshop works best up to 30-40 people, although you can also do it with a much larger group if their expectations are just to get a nice taste of impact maps. Gojko once led a workshop with about 150 people at a conference based on the half-day variant. In the case of a very large group, it's best to have several facilitators, and run the discussion sessions as a public conversation between facilitators ('I noticed in this group....'). 
+Questo workshop funziona al meglio con un massimo di 30-40 persone anche è possibile anche farlo con gruppi più grandi se le aspettative solo solo di avere un assaggio di impact map. Gojko ha guidato un workshop basato sulla variante di mezza giornata con circa 150 persone ad una conferenza. Nel caso di gruppi molto grandi, la cosa migliore è avere diversi facilitatori, ed eseguire la fase di discussione come una conversazione pubblica tra i facilitatori ('In questo gruppo ho notato che ...')
 
-## Exercise guides
+## Guide agli esercizi
 
-### Exercise 1: Initial Plans
+###Esercizio 1: Piani iniziali
 
-This is a warm-up exercise. In the 'Training from the back of the room' terminology, it is a Connections-type exercise. The objective is give the participants a bit of time to form groups, connect their current knowledge to the problem, and learn about the exercise business domain. Also, the exercise helps to provide a baseline that you can use for comparison later, after the [Propose new delivery plans](#exercise-5-propose-new-delivery-plans) exercise.
+Questo è un esercizio di riscaldamento. Nella terminologia di 'Tranining from the back of the room', questo è un esercizio di tipo Connessioni. L'obiettivo è dare ai partecipanti un po' di tempo per formare i gruppi, connettere la loro conoscenza al problema, ed introdursi al dominio di business dell'esercizio. Inoltre, l'esercizio aiuta a dare una base che può essere utilizzata per il confronto successivo dopo l'esercizio [Proporre un nuovo piano di rilascio](#exercise-5-propose-new-delivery-plans)
 
-#### Facilitation Goal
+#### Obbietivo della facilitazione
 
-Get groups to create several different plans. 
+Ottenere diversi piani dai gruppi
 
-#### Learning Objective
+#### Obiettivo di apprendimento
 
-This exercise is a set-up for later exercises, there is no particular learning objective.
+Questo esercizio è una preparazione per gli esercizi successivi, non ci sono particolare obiettivi di apprendimento.
 
-#### Mechanics
+#### Struttura
 
-Start by explaining the purpose of the exercise. As far as the participants are concerned, _this is to provide a common baseline they can use for later comparison_. 
+Iniziare spiegando lo scopo dell'esercizio. Per quanto riguarda i partecipanti, _consiste nel fornire una base comune che potranno utilizzare per i confronti futuri_.
 
-Next, introduce the 'Concerts Online' company. You can show the first two slides from the [Exercises](slides/exercises.ppt) presentation while introducing the domain. Here are the key points to talk about:
+Di seguito, introdurre la società 'Concerti Online'. È possibile mostrare le prime due slides dalla presentazione [Esercizi](slides/exercises.ppt) mentre si spiega il dominio. Questi sono i concetti chiave da affrontare:
 
-* First slide
-  * This is a successful business, with a horrible legacy system
-  * We have cash and people to deliver software, but so far legacy rewrites ended up in a bin, as they could never catch up with the new system
-  * The web site is optimised for desktop web browsers (eg lots of Flash), no longer providing a competitive advantage, moving too slowly
-  * Unless we can respond to market changes quickly, one of our competitors will destroy us
+
+* Prima slide
+  * Questo è un business di successo, con un orribile sistema legacy
+  * Abbiamo denaro e persone per consegnare software, ma le riscrittura del sitema legacy è stata scartata, perché non riuscirebbe  mai a raggiungere il nuovo sistema 
+  * Il sito web è ottimizzato per browsers desktop (ad esempio: ci sono molti Flash), non rappresenta più un vantaggio competitivo, si evolve troppo lentamente. 
+  * Se non rispondiamo velocemente ai cambiamenti del mercato, uno dei nostri competitor ci distruggerà
 
 * Second slide
   * The key user segment are teenagers/young adults, mostly using mobile devices and hanging out on social networks
