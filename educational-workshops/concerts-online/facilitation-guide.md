@@ -89,13 +89,14 @@ Di seguito, introdurre la società 'Concerti Online'. È possibile mostrare le p
   * Il sito web è ottimizzato per browsers desktop (ad esempio: ci sono molti Flash), non rappresenta più un vantaggio competitivo, si evolve troppo lentamente. 
   * Se non rispondiamo velocemente ai cambiamenti del mercato, uno dei nostri competitor ci distruggerà
 
-* Second slide
-  * The key user segment are teenagers/young adults, mostly using mobile devices and hanging out on social networks
-  * Most of the money comes from selling tickets, second most important money source is advertising, then selling random merchandise related to concerts
-  * We sell three types of tickets:
-    * some are exclusive, eg a massively popular performer coming to London, we can negotiate an exclusive distribution deal to be the only site selling tickets (so we can't improve by selling more, but we can mess things up by not selling enough and losing exclusive deals) 
-    * some are shared with other sales organisation (so the more we sell, the more money comes in)
-    * some are self-service; smaller bands can set up a ticket sales channel through us via the events admin app, we take a profit cut. This is a relatively new, but very promising revenue stream for us.
+* Seconda slide
+  * I segmenti importanti di utenti sono teenagers/giovani adulti, che principalmente usano mobile device e frequentano i social networks
+  * La maggior parte dei ricavi viene dalla vendita dei biglietti, la seconda sorgente di ricavo è la pubblicità, ed infino la vendita di merchandise legata ai concerti
+  * Vendiamo tre tipi di biglietti:
+    * alcuni sono esclusivi, ad esempio un musicista famoso viene a Londra, possiamo negoziare un contratto di distribusione in esclusiva per essere gli unici a vendere i biglietti (quindi non possiamo migliorare vendedo di più ma possiamo rovinare le cose non vendendo abbastanza perdendo possibilità future di altre sclusive)
+    * altri sono condivisi con altre organizzazioni di vendite (quindi più vendiamo, più ricavi abbiamo) 
+    * altri sono self-service; piccole bands possono creare un canale per vendere biglietti attraverso noi tramite l'applicazione di gestione eventi, noi prendiamo una provvigione. Questa è una fonte di ricavo relativamente nuova per noi, ma molto promettente.
+    
   * The most popular content are artist pages. Eg Britney Spears page will have some videos, news, links to songs and upcoming concert info on Britney. For hugely popular artists, we have deals with their PR agencies posting content. For some small groups, they post it themselves. The parts in the middle are automatically generated from news feeds, content aggregators, web scraping and so on. This is also one of our key pieces of software, because it provides search engines with lots of material so they send us users.
   * The second most popular content are location pages (eg what's on in London tonight). For larger cities, we have content editors working on the materials. For smaller locations, our automated content systems do the work.
 
